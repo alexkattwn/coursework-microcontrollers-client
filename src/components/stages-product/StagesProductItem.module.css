@@ -1,0 +1,42 @@
+.stage {
+    border-radius: 15px;
+    width: 300px;
+    padding: 20px;
+    box-shadow: 2px 2px 4px gray;
+    min-width: 200px;
+}
+
+.partHead {
+    display: flex;
+    justify-content: center;
+    font-weight: 400;
+    font-size: 16px;
+    margin-bottom: 8px;
+    padding: 8px;
+    box-shadow: 1px 1px 2px gray;
+    border-radius: 15px;
+}
+
+.partDesc {
+    display: flex;
+    justify-content: center;
+    margin: 6px;
+}
+
+.partBody {
+    display: block;
+    font-weight: 400;
+    font-size: 14px;
+    color: #777;
+    margin-top: 3px;
+}
+
+.line__blue {
+    border-bottom: 2px solid blue;
+    margin-top: 10px;
+}
+
+.line__red {
+    border-bottom: 2px solid red;
+    margin-top: 10px;
+}
